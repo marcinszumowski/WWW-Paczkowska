@@ -52,9 +52,14 @@ section h3.section-subheading {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-section h4.section-maps {
-margin: auto;
-} 
+.Clients {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+iframe {
+  margin: auto;
+}
 
 @media (min-width: 768px) {
   section {
