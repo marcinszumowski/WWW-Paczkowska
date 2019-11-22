@@ -1,4 +1,4 @@
-# [Website Paczkowska 26](https://marcinszumowski.github.io/WWW-Paczkowska/)
+# [Website Paczkowska](https://marcinszumowski.github.io/WWW-Paczkowska/)
 This is the website of a veterinary clinic [**Paczkowska 26**](https://marcinszumowski.github.io/WWW-Paczkowska/)
 
 #### Preview
